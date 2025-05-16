@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "alloyedarmor:stratosphite_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "alloyedarmor:stratosphite_ingot"
+  }
+}

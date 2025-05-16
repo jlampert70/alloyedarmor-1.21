@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_magmite_ingot": {
+      "conditions": {
+        "items": [
+          {
+            "items": "alloyedarmor:magmite_ingot"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:magmite_block"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_magmite_ingot"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:magmite_block"
+    ]
+  }
+}

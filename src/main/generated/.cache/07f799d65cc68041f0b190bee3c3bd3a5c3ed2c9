@@ -1,0 +1,6 @@
+// 1.21	2025-05-14T21:48:25.984531	alloyedarmor/Block Loot Tables
+57d939f96885e29ecf1a6352af5b4ec4890e65c9 data/alloyedarmor/loot_table/blocks/electrum_block.json
+d709bd8a84b11937e02b4b798689420b057f2da9 data/alloyedarmor/loot_table/blocks/stratosphite_block.json
+69f6afa71aa52cd6e795f372559ef29870911368 data/alloyedarmor/loot_table/blocks/luxite_block.json
+5147b665787c0e8a15bc3f285ecfbd2a342f5303 data/alloyedarmor/loot_table/blocks/magmite_block.json
+3f79ef25ec519f28befccb9c144d5bbc435dba08 data/alloyedarmor/loot_table/blocks/titanium_block.json
