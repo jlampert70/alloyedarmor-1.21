@@ -1,3 +1,12 @@
 {
-  "item.alloyedarmor.stratosphite_ingot": "Stratosphite Ingot"
+  "item.alloyedarmor.electrum_ingot": "Electrum Ingot",
+  "item.alloyedarmor.electrum_block": "Electrum Block",
+  "item.alloyedarmor.electrum_helmet": "Electrum Helmet",
+  "item.alloyedarmor.electrum_chestplate": "Electrum Chestplate",
+  "item.alloyedarmor.electrum_leggings": "Electrum Leggings",
+  "item.alloyedarmor.electrum_boots": "Electrum Boots",
+
+  "item.alloyedarmor.stratosphite_ingot": "Stratosphite Ingot",
+  "item.alloyedarmor.stratosphite_block": "Stratosphite Block"
+
 }

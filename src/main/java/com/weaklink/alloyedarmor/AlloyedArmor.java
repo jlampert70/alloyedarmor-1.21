@@ -1,5 +1,6 @@
 package com.weaklink.alloyedarmor;
 
+import com.weaklink.alloyedarmor.block.ModBlocks;
 import com.weaklink.alloyedarmor.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -13,6 +14,6 @@ public class AlloyedArmor implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		ModItems.registerModItems();
-
+		ModBlocks.registerModBlocks();
 	}
 }
